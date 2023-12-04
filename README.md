@@ -1,6 +1,6 @@
 # Compilex
 
-A simple website built using HTML, CSS, Bootstrap, and Ajax to interact with the backend API from https://api.codex.jaagrav.in.
+A simple website built using HTML, CSS, Bootstrap, and Ajax to interact with the backend API from https://api.codex.jaagrav.in.(A module to the students guide(To be published but free to use))
 
 ## Description
 
